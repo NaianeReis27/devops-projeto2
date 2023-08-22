@@ -1,6 +1,6 @@
 # Projeto 2 - Projeto prático de automação e provisionamento de um servidor Linux.
 
-Este projeto consiste na automação e provisionamento de um servidor Linux por meio de um script. O script realiza uma série de tarefas, incluindo a atualização do servidor, instalação do servidor web Apache2, instalação da ferramenta de descompactação 'unzip', download e implantação de uma aplicação web a partir de um repositório GitHub, e finalmente, o envio do script para um repositório no GitHub.
+Este projeto consiste na automação e provisionamento de um servidor Linux por meio de um script. O script realiza uma série de tarefas, incluindo a atualização do servidor, instalação do servidor web Apache2, instalação da ferramenta de descompactação 'unzip', download e implantação de uma aplicação web a partir de um repositório GitHub.
 
 ## Passos para Execução
 
